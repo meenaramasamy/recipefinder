@@ -29,3 +29,5 @@ group :production do
 end
 
 gem 'httparty'
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
